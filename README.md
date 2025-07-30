@@ -199,7 +199,7 @@ Table 4: Returns
 
 #### 1️⃣ Dashboard 1 Preview 
 
--Observation: Observation: The first dashboard shows total sales of $12.6M, total profit of $1.7M, and a low return rate of 0.04%, indicating strong overall performance. However, Japan has the highest return rate at 1.20%, and the return rate by product varies significantly, with Holmes Replacement Filter for HEPA Air Cleaner (25.00%) and Boston 16801 Nautilus Battery Pencil Sharpener (16.67%) showing high returns.
+-Observation: The first dashboard shows total sales of $12.6M, total profit of $1.7M, and a low return rate of 0.04%, indicating strong overall performance. However, Japan has the highest return rate at 1.20%, and the return rate by product varies significantly, with Holmes Replacement Filter for HEPA Air Cleaner (25.00%) and Boston 16801 Nautilus Battery Pencil Sharpener (16.67%) showing high returns.
 
 -Recommendation: Investigate the high return rates in Japan and for specific products like the Holmes Filter and Boston Pencil Sharpener to identify quality or market-specific issues. Consider targeted improvements or marketing adjustments to reduce returns and enhance customer satisfaction.
 
