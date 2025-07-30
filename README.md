@@ -1,4 +1,4 @@
-# SalesInsight-Dashboard-PBI
+# Business-Performance-PBI
 
 <img width="2238" height="1259" alt="image" src="https://github.com/user-attachments/assets/86fa79d2-2d51-41ea-99da-b4da470ee2d8" />
 
