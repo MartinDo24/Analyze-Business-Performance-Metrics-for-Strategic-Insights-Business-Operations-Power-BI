@@ -204,7 +204,7 @@ Table 4: Returns
 
 -Recommendation: Investigate the high return rates in Japan and for specific products like the Holmes Filter and Boston Pencil Sharpener to identify quality or market-specific issues. Consider targeted improvements or marketing adjustments to reduce returns and enhance customer satisfaction.
 
-<img width="1431" height="801" alt="image" src="https://github.com/user-attachments/assets/f275a71e-7694-4012-aa16-07b1be7af8a9" />
+<img width="1430" height="803" alt="image" src="https://github.com/user-attachments/assets/8f02e04d-52c2-4b65-a4c3-88187d5b6b32" />
 
 #### 2️⃣ Dashboard 2 Preview 
 
@@ -212,7 +212,7 @@ Table 4: Returns
 
 -Recommendation: Focus on analyzing the root causes of high return rates for Zebra GX420t and Holmes Filter, possibly due to product defects or misuse. Address regional issues in Mexico and the North region, and review Chuck Magee’s sales process to identify potential training or support needs to reduce returns.
 
-<img width="1431" height="801" alt="image" src="https://github.com/user-attachments/assets/7e40fef1-20b4-4bf3-b7ba-4bf3f34cab9f" />
+<img width="1432" height="805" alt="image" src="https://github.com/user-attachments/assets/a3b0938b-1433-40eb-a3cf-88003608c151" />
 
 ## 🔎 Final Conclusion & Recommendations  
 
