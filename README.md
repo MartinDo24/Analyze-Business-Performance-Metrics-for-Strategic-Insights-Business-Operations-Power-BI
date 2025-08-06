@@ -48,7 +48,8 @@ Tools Used: Power BI
 
 - Format: SalesInsight-Dashboard.pbix
 
-#### 1️⃣ Tables Used:
+<details>
+<summary> 1️⃣ Tables Used:</summary>
 
 -Fact table: Orders
 
@@ -63,9 +64,10 @@ Tools Used: Power BI
 -Measure:
   
   + Measure
-  
+</details>
 
-#### 2️⃣ Table Schema & Data Snapshot  
+<details>
+<summary> 2️⃣ Table Schema & Data Snapshot </summary> 
 
 Table 1: Orders
 
@@ -119,7 +121,10 @@ Table 4: Returns
 | Order Year         | DATE      |
 | Order ID           | INT       |
 
-#### 3️⃣ Data Relationships: 
+</details>
+
+<details>
+<summary> 3️⃣ Data Relationships: </summary> 
 
 | From Table (Column)                       | To Table (Column)                        | Relationship Type |
 |------------------------------------------|------------------------------------------|-------------------|
@@ -129,45 +134,39 @@ Table 4: Returns
 
 <img width="803" height="191" alt="image" src="https://github.com/user-attachments/assets/8a3f9428-7128-4a15-8d2e-a6ec024b6ade" />
 
+</details>
+
 ## 🧠 Design Thinking Process 
 
 1️⃣ Empathize & EDA
 
+<img width="1576" height="845" alt="image" src="https://github.com/user-attachments/assets/48ceee4d-6910-45e1-8467-8ced5e19a8bb" />
+
 -Answer 5W1H 
 
-<img width="1015" height="358" alt="image" src="https://github.com/user-attachments/assets/ab9d6a8e-35c0-4039-b142-2d8a99f81136" />
+<img width="1021" height="617" alt="image" src="https://github.com/user-attachments/assets/22b8563b-0cef-40fd-8d98-2717ff6c48d3" />
 
 -Put myself in the stakeholder position to create Empathy map
 
-<img width="649" height="408" alt="image" src="https://github.com/user-attachments/assets/df3713d2-68ee-48ef-9238-589500173912" />
-
--EDA 
-
-<img width="270" height="392" alt="image" src="https://github.com/user-attachments/assets/6b83b9b9-fc15-4dac-9960-a19c249152b6" />
+<img width="1035" height="770" alt="image" src="https://github.com/user-attachments/assets/3546d7a5-fcaf-43bf-9295-15497cc6194d" />
 
 2️⃣ Define point of view  
 
 -Define Northstar Metric
 
-<img width="230" height="423" alt="image" src="https://github.com/user-attachments/assets/549ebe8e-cf41-49ad-bc2b-abcc08632715" />
+<img width="1029" height="728" alt="image" src="https://github.com/user-attachments/assets/5149455a-ec93-47fd-b605-fe7a24136b57" />
 
 -Define Point of View
 
-<img width="456" height="406" alt="image" src="https://github.com/user-attachments/assets/ad9c3fe0-5236-47e2-a4fa-d4a8527a1ac8" />
-
--Create some Growth Formula base on Pov 
-
-<img width="646" height="154" alt="image" src="https://github.com/user-attachments/assets/75c2bf27-159b-4767-bc7b-0291ca4d1601" />
+<img width="1038" height="792" alt="image" src="https://github.com/user-attachments/assets/f9dcabd5-ee7c-4552-80fd-67c25a29db4e" />
 
 3️⃣ Ideate
 
--BRAINSTORMING: start from Growth Formula
+<img width="1027" height="753" alt="image" src="https://github.com/user-attachments/assets/3bf592c8-a5b2-42ec-95f2-ff91d358ad59" />
 
-<img width="560" height="395" alt="image" src="https://github.com/user-attachments/assets/35409d45-a772-4c8f-a481-296cdffcb0dc" />
+4️⃣ & 5️⃣ Prototype - Review
 
--STRUCTURE IDEA: start from each Pov
-
-<img width="865" height="366" alt="image" src="https://github.com/user-attachments/assets/b6203a0f-a602-4163-87a8-7d120c4a4246" />
+<img width="982" height="629" alt="image" src="https://github.com/user-attachments/assets/431ce4d6-eda6-46b7-8418-9bb44282cd60" />
 
 ## ⚒️ Main Process 
 
@@ -223,12 +222,3 @@ Table 4: Returns
 
 ✔️ Recommendation 3: Review Chuck Magee’s sales process and provide training or support to minimize returns, while leveraging the low overall return rate as a competitive advantage.
 
-
-
-
-
-
-
-✔️ Recommendation 2: Investigate quality issues with Zebra GX420t and Holmes Filter, and implement targeted market strategies for Japan, Mexico, and the North region to reduce returns
-
-✔️ Recommendation 3: Review Chuck Magee’s sales process and provide training or support to minimize returns, while leveraging the low overall return rate as a competitive advantage.
