@@ -168,6 +168,8 @@ Table 4: Returns
 
 <img width="982" height="629" alt="image" src="https://github.com/user-attachments/assets/431ce4d6-eda6-46b7-8418-9bb44282cd60" />
 
+<img width="685" height="212" alt="image" src="https://github.com/user-attachments/assets/8fd6f3c6-7cf5-4a19-ad96-663517924ded" />
+
 ## ⚒️ Main Process 
 
 1️⃣ Data Cleaning & Preprocessing
