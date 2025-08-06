@@ -216,11 +216,18 @@ Table 4: Returns
 
 ## 🔎 Final Conclusion & Recommendations  
 
-📌 Key Takeaways:
+Through this project, I have gained both technical and business insights:
 
-✔️ Recommendation 1: Maintain current strategies to sustain growth and explore opportunities to further increase sales and profit.
+✅ I learned how to build a business-oriented Power BI dashboard that addresses strategic questions from senior management.
 
-✔️ Recommendation 2: Investigate quality issues with Zebra GX420t and Holmes Filter, and implement targeted market strategies for Japan, Mexico, and the North region to reduce returns.
+✅ I developed a stronger understanding of key performance metrics such as profit margin, return rate, and regional performance.
 
-✔️ Recommendation 3: Review Chuck Magee’s sales process and provide training or support to minimize returns, while leveraging the low overall return rate as a competitive advantage.
+✅ I practiced writing DAX measures to calculate complex KPIs (e.g., dynamic profit margin, return rate by product group).
+
+✅ I improved my ability to visualize data effectively, choose the right chart types, and apply meaningful filters and drill-down paths.
+
+✅ I learned how to gather and apply stakeholder feedback to improve usability and actionable insights.
+
+✅ This project also helped me realize the importance of aligning data visualization with business goals.
+
 
