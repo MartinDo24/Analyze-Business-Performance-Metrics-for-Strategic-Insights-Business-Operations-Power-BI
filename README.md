@@ -1,4 +1,4 @@
-# Analyze Business Performance Metrics for Strategic Insights – Business Operations | Power BI
+# Analyze Sales Performance Metrics for market expansion – Retail E-commerce | Power BI
 
 <img width="2238" height="1259" alt="image" src="https://github.com/user-attachments/assets/86fa79d2-2d51-41ea-99da-b4da470ee2d8" />
 
@@ -140,8 +140,6 @@ Table 4: Returns
 
 1️⃣ Empathize & EDA
 
-<img width="1576" height="845" alt="image" src="https://github.com/user-attachments/assets/48ceee4d-6910-45e1-8467-8ced5e19a8bb" />
-
 -Answer 5W1H 
 
 <img width="1021" height="617" alt="image" src="https://github.com/user-attachments/assets/22b8563b-0cef-40fd-8d98-2717ff6c48d3" />
@@ -166,9 +164,7 @@ Table 4: Returns
 
 4️⃣ & 5️⃣ Prototype - Review
 
-<img width="982" height="629" alt="image" src="https://github.com/user-attachments/assets/431ce4d6-eda6-46b7-8418-9bb44282cd60" />
-
-<img width="685" height="212" alt="image" src="https://github.com/user-attachments/assets/8fd6f3c6-7cf5-4a19-ad96-663517924ded" />
+-Build Power BI dashbroad
 
 ## ⚒️ Main Process 
 
@@ -200,19 +196,18 @@ Table 4: Returns
 
 #### 1️⃣ Dashboard 1 Preview 
 
--Observation: The first dashboard shows total sales of $12.6M, total profit of $1.7M, and a low return rate of 0.04%, indicating strong overall performance. However, Japan has the highest return rate at 1.20%, and the return rate by product varies significantly, with Holmes Replacement Filter for HEPA Air Cleaner (25.00%) and Boston 16801 Nautilus Battery Pencil Sharpener (16.67%) showing high returns.
+-Observation: The first dashboard shows total sales of $12.6M, total profit of $1.7M, and a low return rate of 0.04%, indicating strong overall performance. However, Japan has the highest return rate at 1.20%, and the return rate by product varies significantly, the trend increase first half of the year but go down immediately in July from $1.3M to $0.7M. EMEA become key region of company but LATAM is at the alarm threshold again
+-Recommendation: Need to have more promotional campaigns in the first 7 months of the year to launch more promotional programs to attract customers, continue to invest in sub-category Tables especially in the Africa region. Further consideration of optimal shipping options to the LATAM region
 
--Recommendation: Investigate the high return rates in Japan and for specific products like the Holmes Filter and Boston Pencil Sharpener to identify quality or market-specific issues. Consider targeted improvements or marketing adjustments to reduce returns and enhance customer satisfaction.
-
-<img width="1430" height="803" alt="image" src="https://github.com/user-attachments/assets/8f02e04d-52c2-4b65-a4c3-88187d5b6b32" />
+<img width="1311" height="741" alt="image" src="https://github.com/user-attachments/assets/974f1338-1ae3-4c50-be75-c4ad349b12c3" />
 
 #### 2️⃣ Dashboard 2 Preview 
 
 -Observation: The second dashboard highlights return details with a total of 23 returns and a 2.08% return rate, with products like Zebra GX420t Direct Thermal/Thermal Transfer Printer (33.33%) and Holmes Replacement Filter (25.00%) showing the highest return rates. Total return by country peaks in Mexico (10), while North region leads in returns by region (10). Sales returns by person show Chuck Magee with the highest at $4K.
 
--Recommendation: Focus on analyzing the root causes of high return rates for Zebra GX420t and Holmes Filter, possibly due to product defects or misuse. Address regional issues in Mexico and the North region, and review Chuck Magee’s sales process to identify potential training or support needs to reduce returns.
+-Recommendation: Need to take care of customer Shirley Daniels returned Hamilton Beach Stove, White office supplies Japan area with the highest return value and also take care customer named Jack leborn asked for feedback on the product if possible give him a voucher to experience more products. Review the carrier especialy second class shipping method has the highest return rate with 13 products returned accounting for $5.1K. 
 
-<img width="1432" height="805" alt="image" src="https://github.com/user-attachments/assets/a3b0938b-1433-40eb-a3cf-88003608c151" />
+<img width="1311" height="741" alt="image" src="https://github.com/user-attachments/assets/47625805-fee8-4c48-9a45-be5215cb8947" />
 
 ## 🔎 Final Conclusion & Recommendations  
 
