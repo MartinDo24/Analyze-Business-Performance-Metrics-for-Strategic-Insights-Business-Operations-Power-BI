@@ -140,7 +140,7 @@ Table 4: Returns
 
 1️⃣ Empathize & EDA
 
-<img width="1029" height="633" alt="image" src="https://github.com/user-attachments/assets/008db380-058f-4891-bdc7-70a82f1794bc" />
+<img width="1035" height="604" alt="image" src="https://github.com/user-attachments/assets/26c94caa-f9c6-4278-829e-5307802e5fcf" />
 
 -Put myself in the stakeholder position to create Empathy map
 
