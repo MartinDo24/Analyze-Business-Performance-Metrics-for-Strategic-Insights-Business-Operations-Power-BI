@@ -150,11 +150,11 @@ Table 4: Returns
 
 -Define Northstar Metric
 
-<img width="1028" height="771" alt="image" src="https://github.com/user-attachments/assets/22bd3d0f-96a0-402f-8ba1-e8585ce81096" />
+<img width="1019" height="685" alt="image" src="https://github.com/user-attachments/assets/9948b455-e9b7-4c6f-bc0c-a6ea71acaa94" />
 
 -Define Point of View
 
-<img width="1036" height="779" alt="image" src="https://github.com/user-attachments/assets/bb7dc123-232c-45c7-9796-c836724d8036" />
+<img width="1031" height="778" alt="image" src="https://github.com/user-attachments/assets/90c07b53-7b43-4a84-b5e2-ec1986f61197" />
 
 3️⃣ Ideate
 
