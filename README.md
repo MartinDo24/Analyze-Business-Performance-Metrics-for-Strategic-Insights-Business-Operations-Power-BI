@@ -140,27 +140,25 @@ Table 4: Returns
 
 1️⃣ Empathize & EDA
 
--Answer 5W1H 
-
-<img width="1021" height="617" alt="image" src="https://github.com/user-attachments/assets/22b8563b-0cef-40fd-8d98-2717ff6c48d3" />
+<img width="1029" height="633" alt="image" src="https://github.com/user-attachments/assets/008db380-058f-4891-bdc7-70a82f1794bc" />
 
 -Put myself in the stakeholder position to create Empathy map
 
-<img width="1035" height="770" alt="image" src="https://github.com/user-attachments/assets/3546d7a5-fcaf-43bf-9295-15497cc6194d" />
+<img width="976" height="758" alt="image" src="https://github.com/user-attachments/assets/d3a9edd4-4300-42fc-a0d7-3c42ec17403c" />
 
 2️⃣ Define point of view  
 
 -Define Northstar Metric
 
-<img width="1029" height="728" alt="image" src="https://github.com/user-attachments/assets/5149455a-ec93-47fd-b605-fe7a24136b57" />
+<img width="1028" height="771" alt="image" src="https://github.com/user-attachments/assets/22bd3d0f-96a0-402f-8ba1-e8585ce81096" />
 
 -Define Point of View
 
-<img width="1038" height="792" alt="image" src="https://github.com/user-attachments/assets/f9dcabd5-ee7c-4552-80fd-67c25a29db4e" />
+<img width="1036" height="779" alt="image" src="https://github.com/user-attachments/assets/bb7dc123-232c-45c7-9796-c836724d8036" />
 
 3️⃣ Ideate
 
-<img width="1027" height="753" alt="image" src="https://github.com/user-attachments/assets/3bf592c8-a5b2-42ec-95f2-ff91d358ad59" />
+<img width="1034" height="755" alt="image" src="https://github.com/user-attachments/assets/ca5be39c-ccd0-4d6d-b541-ce7df02aaedb" />
 
 4️⃣ & 5️⃣ Prototype - Review
 
