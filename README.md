@@ -197,7 +197,7 @@ Table 4: Returns
 -Observation: The first dashboard shows total sales of $12.6M, total profit of $1.7M, and a low return rate of 0.04%, indicating strong overall performance. However, Japan has the highest return rate at 1.20%, and the return rate by product varies significantly, the trend increase first half of the year but go down immediately in July from $1.3M to $0.7M. EMEA become key region of company but LATAM is at the alarm threshold again
 -Recommendation: Need to have more promotional campaigns in the first 7 months of the year to launch more promotional programs to attract customers, continue to invest in sub-category Tables especially in the Africa region. Further consideration of optimal shipping options to the LATAM region
 
-<img width="1311" height="741" alt="image" src="https://github.com/user-attachments/assets/974f1338-1ae3-4c50-be75-c4ad349b12c3" />
+<img width="1432" height="801" alt="image" src="https://github.com/user-attachments/assets/0283d845-b43c-4ef2-a571-c1de51b0bf71" />
 
 #### 2️⃣ Dashboard 2 Preview 
 
@@ -205,7 +205,7 @@ Table 4: Returns
 
 -Recommendation: Need to take care of customer Shirley Daniels returned Hamilton Beach Stove, White office supplies Japan area with the highest return value and also take care customer named Jack leborn asked for feedback on the product if possible give him a voucher to experience more products. Review the carrier especialy second class shipping method has the highest return rate with 13 products returned accounting for $5.1K. 
 
-<img width="1311" height="741" alt="image" src="https://github.com/user-attachments/assets/47625805-fee8-4c48-9a45-be5215cb8947" />
+<img width="1431" height="801" alt="image" src="https://github.com/user-attachments/assets/6defca4a-8044-4765-8d2a-b54ca227e044" />
 
 ## 🔎 Final Conclusion & Recommendations  
 
